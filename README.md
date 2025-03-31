@@ -4,11 +4,12 @@ This repository serves as a 5-Day Gen AI Intensive course podcast, assignment li
 Day 1: Foundational Large Language Models & Text Generation
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”:
 
-Listen to the summary podcast episode for this unit.
+Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2) for this unit.
 To complement the podcast, read the “Foundational Large Language Models & Text Generation” whitepaper. 
+
 2. Complete Unit 1 – “Prompt Engineering”:
 
-Listen to the summary podcast episode for this unit.
+Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2) for this unit.
 To complement the podcast, read the “Prompt Engineering” whitepaper.
 Complete these codelabs on Kaggle:
 Prompting fundamentals
